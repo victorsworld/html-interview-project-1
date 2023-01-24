@@ -1,0 +1,41 @@
+.blue {
+    border: 3px blue solid;
+    border-radius: 10px;
+    padding:  25px;
+    margin: 200px;
+    background-color: rgb(252, 145, 106);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 0 0 40px black;
+    background-image: url(/HTML-Interview-Project1/desert-g271b15fe5_1920.jpg);
+}
+#blunt{
+    border: 3px blue solid;
+    border-radius: 10px;
+    padding:  25px;
+    margin: 200px;
+    background-color: rgb(93, 171, 239);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 0 40px black;
+    background-image: url(/HTML-Interview-Project1/desert-g271b15fe5_1920.jpg);
+}
+h1 {
+    font-weight: bolder;
+    color: rgb(88, 219, 208);
+    font-style: unset;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+img{
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+}
+#jose {
+    width: 700px;
+    height: 400px;
+}
+.i {
+    font-style: italic;
+}
